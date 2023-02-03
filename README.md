@@ -10,7 +10,7 @@ The `chgsum.pl` should be installed before running `getBaderCharges.sh`
 Run the code as `./getBaderCharges.sh`
 
 # Disclaimer
-Other interesting repositories can be found at [sufyanshk.github.io](https://sufyanshk.github.io)
-VASP (Vienna Ab-initio Simulation Package) can be found at [vasp.at](https://vasp.at)
+Other interesting repositories can be found at [sufyanshk.github.io](https://sufyanshk.github.io)  
+VASP (Vienna Ab-initio Simulation Package) can be found at [vasp.at](https://vasp.at)  
 All codes are of their respective owners.  
 No copyright infringement intended.  
