@@ -10,5 +10,5 @@ Run the code as `./getBaderCharges.sh`
 
 # Disclaimer
 All codes are of their respective owners.  
-No copyright infringement intended.
+No copyright infringement intended.  
 Other interesting repositories can be found at [sufyanshk.github.io](https://sufyanshk.github.io)
