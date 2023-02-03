@@ -1,5 +1,6 @@
 # BaderPostProcess
-Post processing of Bader charge files.
+Post processing of Bader charge files.  
+Other interesting repositories can be found on my personal website: <a href="https://sufyanshk.github.io/">sufyanshk.github.io</a>
 
 The `AECCR0`, `AECCR2`, `CHGCAR`, `CONTCAR`, and `POTCAR` files should be in the current directory.  
 This code is written for `VASP` generated `CONTCAR` file having 128 atoms of 2 elements.
